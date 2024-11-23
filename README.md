@@ -3,7 +3,7 @@
 🎓 **Sophomore Computer Engineering Student**  
 💻 **Aspiring AI/ML and Web App/Sofware Developer Enthusiast**  
 📚 Currently learning: Computer Engineering Mathematic, ML/AI, IoT, and Data Science.  
-🌟 Passionate about combining technology with practical solutions.
+🌟 Passionate about applying technology to simple, everyday problems that people often overlook.
 
 ---
 
