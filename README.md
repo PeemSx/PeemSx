@@ -32,7 +32,7 @@
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/supanat-kampapan-8561b023a/)  
-- [Portfolio](#) *(Coming Soon)*  
+- [Portfolio](https://personal-website-peemsxs-projects.vercel.app/)
 
 ---
 
