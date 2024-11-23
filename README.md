@@ -8,9 +8,8 @@
 ---
 
 ## 🔭 What I'm working on:
-- 🤖 Developing machine learning projects, including text-based models and funny ML experiments.
+- 🤖 Developing machine learning projects.
 - 🌐 Building a waste sorting assistant.
-- 📈 Exploring finance and midterm trading strategies.
 - 🛠️ Enhancing my skills in Embedded Systems and IoT.
 
 ---
