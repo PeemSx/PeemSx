@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Peem!  
 
-<!--
-**PeemSx/PeemSx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Sophomore Computer Engineering Student**  
+💻 **Aspiring AI/ML and Web App/Sofware Developer Enthusiast**  
+📚 Currently learning: ML, IoT, and Data Science.  
+🌟 Passionate about combining technology with practical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on:
+- 🤖 Developing machine learning projects, including text-based models and funny ML experiments.
+- 🌐 Building a waste sorting assistant.
+- 📈 Exploring finance and midterm trading strategies.
+- 🛠️ Enhancing my skills in Embedded Systems and IoT.
+
+---
+
+## 🌱 What I’m learning:
+- **Data Science and Machine Learning**: Improving my skills with Python, Pandas, and Scikit-learn.  
+- **Statistics**: Learning in field of hypothesis testing, A/B testing, and probability.  
+- **Next.js**: Building modern, responsive websites and applications.
+- **Software Engineering**: software development principles such as version control, agile methodologies, and clean code practices to build scalable, maintainable, and efficient applications.
+
+---
+
+## 📊 My Tech Stack:
+- **Languages**: Python, JavaScript, C, C++, Typescript.  
+- **Frameworks**: Next.js, Tailwind.css, Scikit-Learn.  
+- **Tools**: Git, Docker, Kafka.  
+- **Database**: PostgreSQL, MongoDB.  
+
+---
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/supanat-kampapan-8561b023a/)  
+- [Portfolio](#) *(Coming Soon)*  
+
+---
+
+## ✨ Fun Facts:
+- I enjoy playing games especially Minecraft, reading, and watching comedy anime.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and contribute. 🚀
