@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Peem!  
 
-🎓 **Sophomore Computer Engineering Student**  
+🎓 **Junior Computer Engineering Student**  
 💻 **Aspiring AI/ML and Web App/Sofware Developer Enthusiast**  
-📚 Currently learning: Computer Engineering Mathematic, ML/AI, IoT, and Data Science.  
+📚 Currently learning: Computer Engineering Mathematic, ML/AI, IoT, and Quantum Computing.  
 🌟 Passionate about applying technology to simple, everyday problems that people often overlook.
 
 ---
 
 ## 🔭 What I'm working on:
-- 🤖 Developing machine learning projects.
-- 🌐 Building a waste sorting assistant.
+- 🤖 Learning about FPGA and Quantum Computing.
+- 🌐 Developing an AI-Assisted OVCF Detection Project.
 - 🛠️ Enhancing my skills in Embedded Systems and IoT.
 
 ---
@@ -25,7 +25,7 @@
 ## 📊 My Tech Stack:
 - **Languages**: Python, JavaScript, C, C++, Typescript.  
 - **Frameworks**: Next.js, Tailwind.css, Scikit-Learn.  
-- **Tools**: Git, Docker, Kafka.  
+- **Tools**: Git, Docker.  
 - **Database**: PostgreSQL, MongoDB.  
 
 ---
